@@ -1,5 +1,5 @@
 {
-	"name": "Bilkent Srs 2 factor bypass 2",
+	"name": "Bilkent Srs 2 factor bypass",
 	"description": "Bypass Bilkent Srs two factor authentication",
 	"version": "0.2",
 	"minimum_chrome_version": "16.0.884",
